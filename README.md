@@ -4,7 +4,7 @@ A Django application to record the entry and exit of students into the library b
 
 ### System Requirements
 
-- Python 3.7 or above
+- Python 3.7 or below
 - Git
 - RFID Reader with compatible RFID cards
 - Ubuntu 20.04 or higher (for Linux installation) or Windows 10/11 (for Windows installation)
